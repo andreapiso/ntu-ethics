@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## NTU AI Ethics - Module 3
+
+### Using Big Data For Credit Scoring
 
 You can use the [editor on GitHub](https://github.com/andreapiso/ntu-ethics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
